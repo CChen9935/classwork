@@ -39,7 +39,7 @@ public class Hero {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}	
+		}	//gehsz
 	}
 	public BufferedImage getImage(){
 		return sprite;
